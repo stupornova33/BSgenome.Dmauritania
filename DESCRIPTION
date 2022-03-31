@@ -1,0 +1,17 @@
+Package: BSGenome.Dmauritania.NCBI
+Title: Full genome sequences for Drosophila mauritania (NCBI v1)
+Description: Drosophila simulans full genome sequences (2019/04/16)
+Version: 1.0
+Author: Taiya Jarva
+Maintainer: Taiya Jarva <t.m.jarva13@gmail.com>
+Depends: R (>= 3.5.0), BSgenome (>= 1.58.0)
+Imports: BSgenome
+Suggests: 
+License: Artistic-2.0
+organism: Drosophila mauritania
+common_name: D.mauritania
+genome: GCF_004382145.1
+provider: NCBI
+release_date: 04-16-2019
+source_url: https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/004/382/145/GCF_004382145.1_ASM438214v1/GCF_004382145.1_ASM438214v1_genomic.fna.gz
+biocViews: AnnotationData, Genetics, BSgenome, Drosophila_mauritania
